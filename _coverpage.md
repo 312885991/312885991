@@ -8,4 +8,4 @@
 - 分类清晰、内容高亮
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
-[Get Started](/docs/develop/Git基本常用命令及总结)
+[Get Started](docs/develop/Git基本常用命令及总结)
